@@ -2,7 +2,7 @@
 <h1 align="center">Hello! Nojood is here 👩‍💻</h1>
 <h3 align="center">MERN stack developer, passionate about React and Web development</h3>
 
-- 🌱 I’m currently learning **React, MERN stack**
+- 🌱 I’m currently learning **Web development, MERN stack**
 
 - 💬 You can ask me about **React, Java, JavaScript**
 
