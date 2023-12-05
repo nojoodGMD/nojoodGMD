@@ -1,5 +1,5 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif)](https://rishavchanda.io)
-<h1 align="center">Hello! Nojood is here 👨‍💻</h1>
+<h1 align="center">Hello! Nojood is here 👩‍💻</h1>
 <h3 align="center">MERN stack developer, passionate about React and Web development</h3>
 
 - 🌱 I’m currently learning **React, MERN stack**
